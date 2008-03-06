@@ -1,3 +1,7 @@
+=== 1.0.1 / 2008-03-06
+
+* Added test for ObjectProxySafeHash
+
 === 1.0.0 / 2008-03-05
 
 * 1 major enhancement
