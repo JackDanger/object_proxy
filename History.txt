@@ -1,3 +1,7 @@
+=== 1.0.2 / 2008-08-06
+
+* Deciding on an underscore gem name.  I don't want to have to type gem install ObjectProxy if I can help it
+
 === 1.0.1 / 2008-03-06
 
 * Added test for ObjectProxySafeHash
