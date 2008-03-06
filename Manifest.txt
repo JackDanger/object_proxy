@@ -1,0 +1,7 @@
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+lib/object_proxy.rb
+lib/object_proxy_safe_hash.rb
+test/test_object_proxy.rb
