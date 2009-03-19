@@ -2,6 +2,10 @@ History.txt
 Manifest.txt
 README.txt
 Rakefile
+init.rb
+install.rb
 lib/object_proxy.rb
 lib/object_proxy_safe_hash.rb
+rails/init.rb
 test/test_object_proxy.rb
+test/test_object_proxy_safe_hash.rb
