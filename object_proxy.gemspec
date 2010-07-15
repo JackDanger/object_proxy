@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{object_proxy}
-  s.version = "1.1.2"
+  s.version = "1.1.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Jack Danger Canty"]
-  s.date = %q{2010-05-03}
+  s.date = %q{2010-07-15}
   s.description = %q{Tiny class that defers nearly all method calls to an object of your choice}
   s.email = %q{rubygems@6brand.com}
   s.extra_rdoc_files = [
