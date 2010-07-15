@@ -4,7 +4,7 @@ require 'object_proxy_safe_hash'
 
 class ObjectProxy
   
-  SAFE_METHODS = [:__id__, :__send__, :nil, :nil?, :send, :send!, :proxy_class, :proxy_respond_to?]
+  SAFE_METHODS = [:__id__, :__send__, :nil, :nil?, :send, :send!, :proxy_class, :proxy_respond_to?, :object_id]
   
   alias_method :proxy_class, :class
   alias_method :proxy_respond_to?, :respond_to?
